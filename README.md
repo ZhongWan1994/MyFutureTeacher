@@ -13,5 +13,9 @@ MyFutureTeacher
 3、elements下的txt为全量的英语单词表，remain文件夹下初始化全量英语单词表，单词抽样后，被抽样的单词转移到history文件夹中
 4、运行前，先配置好ini文件
 
+先运行main_create_dialogue.py，生成对话后粘贴到dialogue_board.txt中
+再运行main.py, 生成对话并开始练习口语
+目前还没有正常评估口语准确度和流畅性的可靠模型，计算的得分可能有点蠢，见谅~
+
     
     
