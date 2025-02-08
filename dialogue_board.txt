@@ -1,6 +1,6 @@
-A: すみません。このホテルの部屋の価格はいくらですか。(不好意思，这家酒店的房间价格是多少呀。)
-B: 部屋の種類によって違いますが、シングルルームであれば一泊 8000 円です。(根据房间种类不同有所区别哦，单人间的话一晚是 8000 日元。)
-A: ありがとうございます。それには何か割引がありますか。(谢谢您。那有什么优惠吗？)
-B: 会員になっている場合は、10% の割引が適用されますよ。(如果是会员的话，可以享受 10% 的折扣哦。)
-A: そうですか。それ以外にも特典はありますか。(是这样啊。除此之外还有别的优惠吗？)
-B: 長期滞在の場合、3 泊以上で更に 5% の割引を追加できます。(长期住宿的情况下，住三晚以上还能额外再享受 5% 的折扣呢。)
+A: Good afternoon! I'm here to book a room for a business trip.（下午好！我来为一次商务旅行预订一个房间。）
+B: Welcome, sir. When would you like to check in and check out?（欢迎，先生。您打算什么时候入住和退房呢？）
+A: I'll check in on the 15th and check out on the 18th. Do you have any quiet rooms available?（我15号入住，18号退房。你们有安静点的房间吗？）
+B: Let me check... Yes, we do have some quiet rooms on the upper floors. Would you prefer a single or a double room?（让我查一下……有的，我们高层有一些安静的房间。您想要单人间还是双人间呢？）
+A: A single room will be fine. How much does it cost per night?（单人间就行。每晚多少钱呢？）
+B: It's $180 per night, including breakfast.（每晚180美元，包含早餐。）

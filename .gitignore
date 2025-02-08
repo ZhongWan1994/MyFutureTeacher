@@ -1,9 +1,9 @@
 .idea/*
 elements/english-words-master/*
 model_weights/*
-!model_weights/
+!model_weights/.gitkeep
 audio_output/*
-!audio_output/
+!audio_output/.gitkeep
 model_weights/com.txt
 
 
