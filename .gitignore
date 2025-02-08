@@ -1,0 +1,10 @@
+.idea/*
+elements/english-words-master/*
+model_weights/*
+!model_weights/
+audio_output/*
+!audio_output/
+model_weights/com.txt
+
+
+
